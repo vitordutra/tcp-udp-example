@@ -40,4 +40,4 @@ e.g.
 -----------------------------------------
 All credits due to Hussein Nasser
 
-[Reference]{https://www.youtube.com/watch?v=qqRYkcta6IE&t}
+[Reference](https://www.youtube.com/watch?v=qqRYkcta6IE&t)
