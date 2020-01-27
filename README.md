@@ -2,25 +2,23 @@
 
 Example of TCP and UDP using Node.js
 
-How to run tcp.js:
+* How to run tcp.js:
 
-Run Debug Server on VS Code (F5)
+> Run Debug Server on VS Code (F5)
 
-Type in shell:
+then type in shell / terminal:
 
-telnet 127.0.0.1 8080
+> telnet 127.0.0.1 8080
 OR
-telnet localhost 8080
+> telnet localhost 8080
 
 Test by sending strings to the local server
 Read the output
 
 ---------------------------------------
-How to run udp.js:
+* How to run udp.js:
 
-Type in shell:
-
-How to run tcp.js:
+Type in shell / terminal:
 
 Run Debug Server on VS Code (F5)
 
