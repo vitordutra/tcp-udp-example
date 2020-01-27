@@ -15,7 +15,8 @@ OR
 > telnet localhost 8080
 
 * Test by sending strings to the local server
-Read the output
+
+* Read the output
 
 ---------------------------------------
 * How to run udp.js:
