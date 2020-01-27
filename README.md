@@ -8,11 +8,11 @@
 
 then type in shell / terminal:
 
-> telnet 127.0.0.1 8080
+`telnet 127.0.0.1 8080`
 
 OR
 
-> telnet localhost 8080
+`telnet localhost 8080`
 
 * Test by sending strings to the local server
 
@@ -22,20 +22,21 @@ OR
 * How to run udp.js:
 
 
-Run Debug Server on VS Code (F5)
+> Run Debug Server on VS Code (F5)
+
 
 then type in shell / terminal:
 
 
-> echo "foo" | nc -w1 -u 127.0.0.1 8081
+`echo "foo" | nc -w1 -u 127.0.0.1 8081`
 
 * Test by changing the string after echo.
 
 e.g.
 
-> echo "bar" | nc -w1 -u 127.0.0.1 8081
+`echo "bar" | nc -w1 -u 127.0.0.1 8081`
 
-> echo "spam" | nc -w1 -u 127.0.0.1 8081
+`echo "spam" | nc -w1 -u 127.0.0.1 8081`
 
 -----------------------------------------
 All credits due to Hussein Nasser
