@@ -39,6 +39,9 @@ e.g.
 `echo "spam" | nc -w1 -u 127.0.0.1 8081`
 
 -----------------------------------------
-All credits due to Hussein Nasser
 
-[Reference](https://www.youtube.com/watch?v=qqRYkcta6IE&t)
+## Credits
+
+Hussein Nasser
+
+[Source](https://www.youtube.com/watch?v=qqRYkcta6IE&t)
